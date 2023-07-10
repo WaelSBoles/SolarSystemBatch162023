@@ -27,5 +27,11 @@ public class Main {
         feon.temp="25 c";
         feon.size="156984m";
 
+        Planet4 meon= new Planet4();
+        meon.name="exo";
+        meon.color="pink";
+        meon.temp="25 c";
+        meon.size="156984m";
+
 
 }}
