@@ -27,5 +27,12 @@ public class Main {
         feon.temp="25 c";
         feon.size="156984m";
 
+        planet3 leon= new planet3();
+        leon.color="blue";
+        leon.name="leo";
+        leon.size="25m";
+
+
+
 
 }}
